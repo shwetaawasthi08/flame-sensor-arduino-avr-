@@ -1,0 +1,29 @@
+# MPLAB X
+dist/
+build/
+debug/
+nbproject/private/
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.lst
+*.sym
+*.p1
+*.pre
+
+# Microchip Studio / Atmel Studio
+Debug/
+Release/
+.vs/
+*.atsln.*
+*.componentinfo.xml
+*.cproj.user
+*.suo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
