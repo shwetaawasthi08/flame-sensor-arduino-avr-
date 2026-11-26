@@ -171,6 +171,8 @@ The wiring is identical to the table above.
 <!-- Upload demo.mp4 via GitHub's web editor/issue drag-and-drop, or keep it in the repo and link it: -->
 [Watch the demo video](docs/videos/demo.mp4)
 
+- [Demo 3: what this video shows](docs/videos/demo2.mp4)
+
 ## Configuration
 
 | What | Where in `main.c` | Default |
